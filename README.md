@@ -16,7 +16,7 @@
 ## General Information
 - MFAAMCT is for multi-SNP analysis in complex traits.
 - Existing GWAS algorithms face five major challenges in the genetic analysis of complex traits: how to improve recognition capability, how to enhance computational efficiency, how to increase interpretability, how to construct a comprehensive analytical framework, and how to distinguish the action categories of SNP combinations.
-- To simultaneously detect the relationship  between SNPs (single SNPs and SNP combinations) and complex traits,MFAAMCT method is proposed.
+- To simultaneously detect the relationship  between SNPs (single SNPs and SNP combinations) and complex traits, MFAAMCT is proposed.
 - MFAAMCT comprises five algorithms: the Iterative Exclusion of Variables (IEV) algorithm, the Iterative Exclusion of Compatible Samples (IECS) algorithm, the Conditional Variables Conjunction (CVC) algorithm, the Swarm Intelligence-Based Conditional Variables Conjunction (SICVC) series algorithms, and the Group-Based Conditional Variables Conjunction (GCVC) algorithm.
 
 ## Features
